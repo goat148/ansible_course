@@ -1,2 +1,2 @@
 # ansible_course
-Official git repository for Learn LinuxTV Ansible course
+Git repository for Learn LinuxTV Ansible course
